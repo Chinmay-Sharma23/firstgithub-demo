@@ -1,4 +1,5 @@
 # firstgithub-demo
-this is my first repo.
+
+this is my first github repo.
 <br>
-Author -  Chinmay Sharma
+Author -  Chinmay Sharma(C.S)
